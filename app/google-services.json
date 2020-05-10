@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "748594718889",
+    "firebase_url": "https://pranckall.firebaseio.com",
+    "project_id": "pranckall",
+    "storage_bucket": "pranckall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748594718889:android:b720f2243798764b2621b8",
+        "android_client_info": {
+          "package_name": "com.example.pranckall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748594718889-rmn00g48ecg3j8ppsi1kcpek94ooal88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNpX9-jIJuD_mh4CySbiPvOWZ5-gSqwOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748594718889-rmn00g48ecg3j8ppsi1kcpek94ooal88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
